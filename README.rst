@@ -1,5 +1,5 @@
-php_syntax
-==========
+php_syntax parser for python
+============================
 
 This is simple and small library  written for various data structures contained
 in php sources. Originnaly developed for reading MediaWiki LanguageXX.php,
